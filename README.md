@@ -8,4 +8,4 @@ Hi! This is the repository created to collect the Java code for the GameBoard pr
 
 Enjoy it!
 
--Andrea Melendez & Kevin Mawhorter & Sarah Au
+-Andrea Melendez, Kevin Mawhorter & Sarah Au
